@@ -1,5 +1,8 @@
 # Icannobif
 
+Generate a fibonacci sequence in reverse order.<br> 
+(The input argument must be a member of the sequence.)
+
 Output:
 
 <pre>
